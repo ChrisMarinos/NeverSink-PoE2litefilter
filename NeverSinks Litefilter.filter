@@ -438,6 +438,29 @@ SetFontSize 35
 # Random Rares
 #--------------------------
 
+#--------------------------
+# Bases (Chris')
+#--------------------------
+Show
+BaseEnergyShield > 150
+Class "Body Armours"
+SetBorderColor 255 207 255
+
+Show
+BaseEnergyShield > 45
+Class "Gloves"
+SetBorderColor 255 207 255
+
+Show
+BaseEnergyShield > 80
+Class "Helmets"
+SetBorderColor 255 207 255
+
+Show
+BaseEnergyShield > 60
+Class "Boots"
+SetBorderColor 255 207 255
+
 ## Uncomment this rule to hide low level rares in high level zones
 
 # Hide
