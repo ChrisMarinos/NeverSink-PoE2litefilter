@@ -439,8 +439,9 @@ SetFontSize 35
 #--------------------------
 
 #--------------------------
-# Bases (Chris')
+# Bases (Chris)
 #--------------------------
+# Energy Shield
 Show
 BaseEnergyShield > 150
 Class "Body Armours"
@@ -460,6 +461,50 @@ Show
 BaseEnergyShield > 60
 Class "Boots"
 SetBorderColor 255 207 255
+
+# Armour
+Show
+BaseArmour > 500
+Class "Body Armours"
+SetBorderColor 255 207 255
+
+Show
+BaseArmour > 130
+Class "Gloves"
+SetBorderColor 255 207 255
+
+Show
+BaseArmour > 199
+Class "Helmets"
+SetBorderColor 255 207 255
+
+Show
+BaseArmour > 199
+Class "Boots"
+SetBorderColor 255 207 255
+
+# Evasion
+Show
+BaseEvasion > 480
+Class "Body Armours"
+SetBorderColor 255 207 255
+
+Show
+BaseEvasion > 240
+Class "Gloves"
+SetBorderColor 255 207 255
+
+Show
+BaseEvasion > 120
+Class "Helmets"
+SetBorderColor 255 207 255
+
+Show
+BaseEvasion > 180
+Class "Boots"
+SetBorderColor 255 207 255
+
+
 
 ## Uncomment this rule to hide low level rares in high level zones
 
